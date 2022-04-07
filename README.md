@@ -24,3 +24,4 @@ Safety has a great impact on the quality of a community. Whether a community is 
 
 
 ## Overview
+A three-person project using Python3, Jupyter, and the pandas library to answer the question, "What is the best neighborhood in Pittsburgh?".
