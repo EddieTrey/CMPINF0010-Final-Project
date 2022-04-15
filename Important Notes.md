@@ -11,5 +11,8 @@
 - pipwin install gdal
 - pipwin install fiona
 - pip install geopandas  
-pipwin is a complementary tool for pip on Windows. pipwin installs unofficial python package binaries for windows provided by Christoph Gohlke. Some packages run better and faster
-than official ones.
+- pipwin is a complementary tool for pip on Windows. pipwin installs unofficial python package binaries for windows provided by Christoph Gohlke. Some packages run better and faster
+than official ones.  
+
+#### Further Assistance
+- If you have any issues, please contact edy6@pitt.edu
