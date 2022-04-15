@@ -12,8 +12,8 @@ WEY //Final Project Group 66
 `Yuxuan Liao` : yul243@pitt.edu
 
 ## Dataset
-`Allegheny County Air Quality` : https://data.wprdc.org/dataset/allegheny-county-air-quality
-There is no doubt that air quality has an important impact on the living environment of people. Poor air quality can easily lead to respiratory diseases and even cancer. And good air quality can make residents happy without these problems
+`Pittsburgh Internet Service Providers By Block` : https://data.wprdc.org/dataset/pittsburgh-internet-service-providers-by-block-june-2016
+The Internet has become an inseparable part of people's daily life. no doubt. The best neighborhoods must have extremely high internet speeds. We can't imagine living in a place without internet access. In all the datasets I use, the number of ISPs is used as a rule to judge.
 
 `Police Incident Blotter From 2015 - 2022` : https://data.wprdc.org/dataset/uniform-crime-reporting-data
 "Crime rate" is a strong submetric for "living quality". This data set has data on police incidents in Pittsburgh over a span of 7 years. The idea is that less amount of police incidents correlates to a safer/better neighborhood. I plan on using the csv file in order to find the neighborhood with the least amount of police incidents to determine which one is "best".
@@ -25,3 +25,6 @@ Safety has a great impact on the quality of a community. Whether a community is 
 
 ## Overview
 A three-person project using Python3, Jupyter Notebook, geopandas, and the pandas library to answer the question, "What is the "best" neighborhood in Pittsburgh?"
+
+## Conclusion
+`Wentao Wu`: According to my analysis, Central Business District is the best Neighbourhood - Downtown. My data analysis also has some shortcomings. We consider the living experience of the residents, but my results show that the most convenient area for the Internet is dowtown, which has a large number of companies. It's not a residential area. In addition, the effect will be better if the population and area of each neighborhood are analyzed.
