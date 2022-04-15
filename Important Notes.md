@@ -15,4 +15,4 @@
 than official ones.  
 
 #### Further Assistance
-- If you have any issues, please contact edy6@pitt.edu
+- If you have any issues, please contact me at edy6@pitt.edu
