@@ -15,8 +15,8 @@ WEY //Final Project Group 66
 `Allegheny County Air Quality` : https://data.wprdc.org/dataset/allegheny-county-air-quality
 There is no doubt that air quality has an important impact on the living environment of people. Poor air quality can easily lead to respiratory diseases and even cancer. And good air quality can make residents happy without these problems
 
-`Allegheny County Restaurant/Food Facility Inspections and Locations` : https://data.wprdc.org/dataset/uniform-crime-reporting-data
-According to the World Health Organization(WHO), about 1 in 10 people fall ill each year due to consuming contaminated food. Food is consumed everyday and we want the neighborhood, we will eventually select, to be one that ensures the food it handles and produces is safe for consumption.
+`Police Incident Blotter From 2015 - 2022` : https://data.wprdc.org/dataset/uniform-crime-reporting-data
+"Crime rate" is a strong submetric for "living quality". This data set has data on police incidents in Pittsburgh over a span of 7 years. The idea is that less amount of police incidents correlates to a safer/better neighborhood. I plan on using the csv file in order to find the neighborhood with the least amount of police incidents to determine which one is "best".
 
 
 `Allegheny County Crash Data` : https://data.wprdc.org/dataset/allegheny-county-crash-data
