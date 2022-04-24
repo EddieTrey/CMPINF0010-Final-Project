@@ -18,9 +18,8 @@ The Internet has become an inseparable part of people's daily life. The best nei
 `Police Incident Blotter From 2015 - 2022` : https://data.wprdc.org/dataset/uniform-crime-reporting-data
 "Safety" is a strong submetric for "living quality". This data set has data on police incidents in Pittsburgh over a span of 7 years. The idea is that less amount of police incidents correlates to a safer/better neighborhood. I plan on using the csv file in order to find the neighborhood with the least amount of police incidents to determine which one is "best".
 
-
-`Allegheny County Crash Data` : https://data.wprdc.org/dataset/allegheny-county-crash-data
-Safety has a great impact on the quality of a community. Whether a community is safe or not also depends on the frequency of dangerous accidents. Relatively low accidents can give residents a safe living atmosphere.
+`Allegheny County COVID-19 Tests, Cases and Deaths` ：https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths 
+This data is about the distribution of COVID-19. COVID-19 is an infectious disease that, once it's found in one area, can spread to other people and in some way cause death. So,we can say that the lower the number of infections and deaths in an area, the safer it is. Also, the covid distribution is a straightforward and clear way to describe safty level.
 
 
 ## Overview
